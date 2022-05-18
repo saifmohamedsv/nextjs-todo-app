@@ -4,7 +4,7 @@ import {useState} from "react";
 import axios from "axios";
 
 
-const url = 'http://localhost:3000/api/task'
+const url = 'https://todoapp-nextjs-sv0.vercel.app/'
 
 
 export default function Home(props) {
